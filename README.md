@@ -14,6 +14,7 @@ Function Analysis
 
 
 3.Function code -    
+
                       // SPDX-License-Identifier: MIT
                       pragma solidity ^0.8.0;
                       
