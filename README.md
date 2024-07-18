@@ -1,4 +1,4 @@
-Introduction
+Introduction:
 
 1.Protocol - Crypto and AI
 
@@ -6,7 +6,7 @@ Introduction
 
 3.Smart Contract - Bounty
 
-Function Analysis
+Function Analysis:
 
 1.Function name - setValueInBounty
 
@@ -30,7 +30,7 @@ Function Analysis
                       
 4.Used Encoding - encodeWithSignature
 
-Explaination
+Explaination:
 
 1.Purpose - With the help of low level function call we have created this smart contract with much more felxibilty, this program accepts the data and tranfer the data into other contract with more ease as it uses encoding encodeWithSignature protocol.
 
