@@ -1,10 +1,10 @@
 Introduction
 
-Protocol - Crypto and AI
+1.Protocol - Crypto and AI
 
-Category - AI
+2.Category - AI
 
-Smart Contract - Bounty
+3.Smart Contract - Bounty
 
 Function Analysis
 
