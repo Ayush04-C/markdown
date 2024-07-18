@@ -1,7 +1,9 @@
 Introduction
 
 Protocol - Crypto and AI
+
 Category - AI
+
 Smart Contract - Bounty
 
 Function Analysis
