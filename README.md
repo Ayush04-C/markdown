@@ -13,7 +13,8 @@ Function Analysis
 2.Block Explorer Link - https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.26+commit.8a97fa7a.js
 
 
-3.Function code     -  // SPDX-License-Identifier: MIT
+3.Function code -    
+                      // SPDX-License-Identifier: MIT
                       pragma solidity ^0.8.0;
                       
                       contract Bounty {
